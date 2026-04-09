@@ -1,0 +1,18 @@
+{
+  "name": "TrailBlock · Spartan 50K",
+  "short_name": "TrailBlock",
+  "description": "11-week Spartan Trail 50K training plan tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0c0f",
+  "theme_color": "#0a0c0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

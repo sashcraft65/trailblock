@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#0a0c0f"/>
+  <rect x="40" y="40" width="432" height="432" rx="80" fill="#111318"/>
+  <!-- Mountain shape -->
+  <polygon points="256,100 380,360 132,360" fill="none" stroke="#e8734a" stroke-width="18" stroke-linejoin="round"/>
+  <!-- Inner peak accent -->
+  <polygon points="256,140 320,280 192,280" fill="#e8734a" opacity="0.15"/>
+  <!-- Baseline -->
+  <line x1="100" y1="390" x2="412" y2="390" stroke="#e8734a" stroke-width="8" stroke-linecap="round" opacity="0.4"/>
+  <!-- T B letters -->
+  <text x="256" y="460" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#e8734a" text-anchor="middle" letter-spacing="8" opacity="0.9">TB</text>
+</svg>
